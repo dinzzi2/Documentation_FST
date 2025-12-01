@@ -59,7 +59,7 @@ Step 3.1 Added by Antonio Aunario RIVAN Full Stack Student
 >>>> in your settings.py add the following INSTALLED APPS = [
 >>>>  
 >>>> 'base',
->>>> 'rest_framework,
+>>>> 'rest_framework',
 
 ### ✅ Step 4: Run the Development Server
 
