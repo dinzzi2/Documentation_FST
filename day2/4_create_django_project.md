@@ -56,8 +56,8 @@ backend/
 
 ---
 Step 3.1 Added by Antonio Aunario RIVAN Full Stack Student
->>>> in your settings.py INSTALLED APPS = [
->>>> add the following:
+>>>> in your settings.py add the following INSTALLED APPS = [
+>>>>  
 >>>> 'base',
 >>>> 'rest_framework,
 
