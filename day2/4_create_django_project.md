@@ -55,6 +55,11 @@ backend/
 ```
 
 ---
+Step 3.1 Added by Antonio Aunario RIVAN Full Stack Student
+>>>> in your settings.py INSTALLED APPS = [
+>>>> add the following:
+>>>> 'base',
+>>>> 'rest_framework,
 
 ### ✅ Step 4: Run the Development Server
 
@@ -70,7 +75,6 @@ Quit the server with CONTROL-C.
 ```
 
 ---
-
 ### ✅ Step 5: Open in Your Browser
 
 Go to:  
