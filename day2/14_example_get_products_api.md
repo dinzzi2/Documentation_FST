@@ -66,8 +66,9 @@ urlpatterns = [
     path('products/', get_products, name='get_products'),
 ]
 ```
-There are (2) urls.py files modify the one in the 1st backend folder 
-not in the second backend/backend folder
+There are (2) urls.py files. 
+Modify the one in the 1st backend folder, not the one in the second backend/backend folder
+
 Then visit: 🌐 [http://127.0.0.1:8000/products/](http://127.0.0.1:8000/products/)  
 
 ---
