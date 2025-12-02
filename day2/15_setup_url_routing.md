@@ -22,6 +22,7 @@ Here’s how you can set up routing for your app’s API endpoints:
 ## ✅ Step 1: Create or Open `urls.py` in Your App
 
 Inside your app folder (e.g., `core/`), create a file called:
+(This is the "base" base/ folder in our case.)
 
 📄 `core/urls.py`
 
